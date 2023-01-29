@@ -2,7 +2,7 @@
     background-color: rgb(231, 145, 145);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
-.class1.cooler {
+.font24 {
     font-size: 24px;
 }
 #id1 {
@@ -11,6 +11,5 @@
 }
 #id2 {
     background-color: lightgreen;
-    font-size: 24px;
     font-weight: bold;
 }
